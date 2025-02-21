@@ -1,7 +1,7 @@
 👋
 
 - 🔭 I’m currently working on:
-  - one shot learning: [sig_one_shot](https://github.com/galois17/sig_one_shot.git)
+  - one shot learning: [https://github.com/galois17/sig_one_shot.git](https://github.com/galois17/sig_one_shot.git)
   - bugetted sequential decision making
   
 <!--
