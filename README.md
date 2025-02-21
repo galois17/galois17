@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on:
   - one shot learning: [https://github.com/galois17/sig_one_shot.git](https://github.com/galois17/sig_one_shot.git)
   - bugetted sequential decision making
+- 🤔 I’m looking for help with
+  - [https://github.com/oauth-xx/oauth-ruby/](https://github.com/oauth-xx/oauth-ruby/)
   
 <!--
 **galois17/galois17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
