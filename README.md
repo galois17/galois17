@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on:
   - one shot learning
+  - bugetted sequential decision making
   
 <!--
 **galois17/galois17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
