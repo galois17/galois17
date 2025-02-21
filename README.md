@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on:
   - one-shot learning for multiband spectral signal using Siamese networks: [https://github.com/galois17/sig_one_shot.git](https://github.com/galois17/sig_one_shot.git)
+  - generative modeling for multiband signals 
   - budgetted sequential decision making
 - 🤔 I’m looking for help with
   - [https://github.com/oauth-xx/oauth-ruby/](https://github.com/oauth-xx/oauth-ruby/)
