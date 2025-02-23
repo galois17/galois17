@@ -8,7 +8,7 @@
   - [https://github.com/oauth-xx/oauth-ruby/](https://github.com/oauth-xx/oauth-ruby/)
  
 - ML
-  - [One-shot, Few-shot learning for multiband signals](https://github.com/galois17/sig_one_shot.git)
+  - [One-shot, few-shot learning for multiband signals](https://github.com/galois17/sig_one_shot.git)
 - Signal processing
   - [Signal extraction](https://github.com/galois17/sig_extract.git)
   
