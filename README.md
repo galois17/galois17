@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 -----
 
-<img src="https://streak-stats.demolab.com?user=galois17&theme=default&hide_border=true" alt="galois17's GitHub Stats" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=galois17)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galois17&theme=default&show_icons=true&hide_border=true&layout=compact" alt="galois17's GitHub Stats" />
 
