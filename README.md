@@ -13,7 +13,7 @@
 - Machine Learning and Statistics
   - [One-shot, few-shot learning for multiband signals](https://github.com/galois17/sig_one_shot.git)
 - Large Language Models (LLM) and RAG
-  - [Take output of Siamese network, save into FAISS, and apply LLM (with RAG)](https://github.com/galois17/sig_embeddings_with_rag.git)
+  - [Take embeddings from Siamese network, and apply LLM (with RAG)](https://github.com/galois17/sig_embeddings_with_rag.git)
 - Signal processing
   - [Signal extraction](https://github.com/galois17/sig_extract.git)
   
