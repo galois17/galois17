@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=galois17&theme=radical&hide_border=false)
 
 
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galois17&theme=default&show_icons=true&hide_border=true&layout=compact" alt="galois17's GitHub Stats" />
+-->
 
 
