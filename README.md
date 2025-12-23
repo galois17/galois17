@@ -1,6 +1,7 @@
 👋
 
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently working on:
+  - Reviewing Kestra's codebase [https://github.com/galois17/kestra](https://github.com/galois17/kestra)
   - MCP server pairing pickleball/tennis players in a recreational tournament setting: [https://github.com/galois17/mcp-py-tournament](https://github.com/galois17/mcp-py-tournament)
   - MCP server for grading: [https://github.com/galois17/mcp-grader](https://github.com/galois17/mcp-grader)
   - one-shot learning for multiband spectral signal using Siamese networks: [https://github.com/galois17/sig_one_shot.git](https://github.com/galois17/sig_one_shot.git)
