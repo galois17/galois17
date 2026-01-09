@@ -8,8 +8,10 @@
   - generative modeling for multiband signals
   - RAG with multiband signals: [https://github.com/galois17/sig_embeddings_with_rag.git](https://github.com/galois17/sig_embeddings_with_rag.git)
   - budgetted sequential decision making
-  - A cve-2017-12149 playground [https://github.com/galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)
-  - OAuth1.0a sandbox [https://github.com/galois17/oauth1-sandbox](https://github.com/galois17/oauth1-sandbox)
+  - Security
+    - A cve-2017-12149 playground [https://github.com/galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)
+  - Containers
+    - Dockerized OAuth1.0a sandbox [https://github.com/galois17/oauth1-sandbox](https://github.com/galois17/oauth1-sandbox)
 - 🤔 I’m looking for help with
   - [https://github.com/oauth-xx/oauth-ruby/](https://github.com/oauth-xx/oauth-ruby/)
   
