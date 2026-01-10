@@ -6,6 +6,8 @@
     - A cve-2017-12149 playground [https://github.com/galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)
   - Containers
     - Dockerized OAuth1.0a sandbox [https://github.com/galois17/oauth1-sandbox](https://github.com/galois17/oauth1-sandbox)
+    - Dockerized Oauth2 sandbox (WIP)
+      
   - MCP server pairing pickleball/tennis players in a recreational tournament setting: [https://github.com/galois17/mcp-py-tournament](https://github.com/galois17/mcp-py-tournament)
   - MCP server for grading: [https://github.com/galois17/mcp-grader](https://github.com/galois17/mcp-grader)
   - one-shot learning for multiband spectral signal using Siamese networks: [https://github.com/galois17/sig_one_shot.git](https://github.com/galois17/sig_one_shot.git)
