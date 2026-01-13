@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on:
   - Reviewing Kestra's codebase [https://github.com/galois17/kestra](https://github.com/galois17/kestra)
-  - 🔐 Security
+  - 🔐 **Security**
     - A cve-2017-12149 playground [https://github.com/galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)
     - CVE-2026-21858 (n8n exploit- ni8mare) (WIP)
-  - Containers
+  - **Containers**
     - Dockerized OAuth1.0a sandbox [https://github.com/galois17/oauth1-sandbox](https://github.com/galois17/oauth1-sandbox)
     - Dockerized Oauth2 sandbox (WIP)
       
@@ -21,11 +21,11 @@
  
 -----
  
-- Machine Learning and Statistics
+- **Machine Learning and Statistics**
   - [One-shot, few-shot learning for multiband signals](https://github.com/galois17/sig_one_shot.git)
-- Large Language Models (LLM) and RAG
+- **Large Language Models (LLM) and RAG**
   - [Take embeddings from Siamese network, and apply LLM (with RAG)](https://github.com/galois17/sig_embeddings_with_rag.git)
-- Signal processing
+- **Signal processing**
   - [Signal extraction](https://github.com/galois17/sig_extract.git)
   
 <!--
