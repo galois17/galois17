@@ -8,14 +8,14 @@
   - **Containers**
     - Dockerized OAuth1.0a sandbox [https://github.com/galois17/oauth1-sandbox](https://github.com/galois17/oauth1-sandbox)
     - Dockerized Oauth2 sandbox (WIP)
-      
-  - MCP server pairing pickleball/tennis players in a recreational tournament setting: [https://github.com/galois17/mcp-py-tournament](https://github.com/galois17/mcp-py-tournament)
-  - MCP server for grading: [https://github.com/galois17/mcp-grader](https://github.com/galois17/mcp-grader)
-  - one-shot learning for multiband spectral signal using Siamese networks: [https://github.com/galois17/sig_one_shot.git](https://github.com/galois17/sig_one_shot.git)
-  - generative modeling for multiband signals
-  - RAG with multiband signals: [https://github.com/galois17/sig_embeddings_with_rag.git](https://github.com/galois17/sig_embeddings_with_rag.git)
-  - budgetted sequential decision making
-- 🤔 I’m looking for help with
+  - **AI/ML**
+    - MCP server pairing pickleball/tennis players in a recreational tournament setting: [https://github.com/galois17/mcp-py-tournament](https://github.com/galois17/mcp-py-tournament)
+    - MCP server for grading: [https://github.com/galois17/mcp-grader](https://github.com/galois17/mcp-grader)
+    - one-shot learning for multiband spectral signal using Siamese networks: [https://github.com/galois17/sig_one_shot.git](https://github.com/galois17/sig_one_shot.git)
+    - generative modeling for multiband signals
+    - RAG with multiband signals: [https://github.com/galois17/sig_embeddings_with_rag.git](https://github.com/galois17/sig_embeddings_with_rag.git)
+  - **Budgetted sequential decision making**
+- 🤔 **I’m looking for help with**
   - [https://github.com/oauth-xx/oauth-ruby/](https://github.com/oauth-xx/oauth-ruby/)
   
  
