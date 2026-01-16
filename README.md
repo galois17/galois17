@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on:
   - Reviewing Kestra's codebase [https://github.com/galois17/kestra](https://github.com/galois17/kestra)
   - 🔐 **Security**
-    - A cve-2017-12149 playground [https://github.com/galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)
+    - CVE-2017-12149 playground [https://github.com/galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)
     - CVE-2026-21858; n8n exploit-ni8mare sandbox [https://github.com/galois17/n8n-ni8mare-educational](https://github.com/galois17/n8n-ni8mare-educational)
   - **Containers**
     - Dockerized OAuth1.0a sandbox [https://github.com/galois17/oauth1-sandbox](https://github.com/galois17/oauth1-sandbox)
